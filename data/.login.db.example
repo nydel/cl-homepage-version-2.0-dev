@@ -1,0 +1,16 @@
+;; delete this line and save the file as ".login.db" in this directory ("data")
+;; you will have two users(user:pass) - psara:psara & guest:guest
+;; both are the same for now
+
+#S(CL-HOMEPAGE::USER
+   :ID 3600015173
+   :USERNAME "guest"
+   :REALNAME "guest user"
+   :EMAIL "guestuser@yourdomain.org"
+   :PASSWORD-HASH "084e0343a0486ff05530df6c705c8bb4")
+#S(CL-HOMEPAGE::USER
+   :ID 3615777521
+   :USERNAME "psara"
+   :REALNAME "generic admin account"
+   :EMAIL "psara@yourdomain.org"
+   :PASSWORD-HASH ""cd6b92d40d2f4cced5abafee674132e7"")
