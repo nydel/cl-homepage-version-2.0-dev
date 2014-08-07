@@ -1,5 +1,14 @@
 :cl-homepage-version-2.0-dev package
 
+to ready the package for use:
+
+1) open & follow instructions within file "data/.login.db.example"
+2) browse homepage.lisp and set variables such as *master-port* and *pagetitle* etc
+3) save *.lisp, then load & interpret "package.lisp" with your common lisp; we use sbcl.
+4) call (from package "cl-homepage") #'init to start the webserver on the *master-port*
+5) then call #'+summon-login+ to ready the user database and login forms / session control etc
+6) finally call #'summon-index from the package to create the index page!
+
 development version 2.0.1 alpha
 
 we aim to develop a much cleaner, still-minimal yet also styled, more portable,
