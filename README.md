@@ -1,4 +1,4 @@
-:cl-homepage package
+:cl-homepage-version-2.0-dev package
 
 development version 2.0.1 alpha
 
@@ -11,6 +11,8 @@ and strongly widget-based (e.g. plugin) expansion on both :cl-homepage version
 
 
 here follows the manifest from version 1.0:
+
+:cl-homepage package
 
 [simple commonlisp w3 home fetched via py/pl](http://nydel.sdf.org)
 
