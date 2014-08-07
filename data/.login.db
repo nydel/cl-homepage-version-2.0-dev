@@ -1,0 +1,12 @@
+#S(CL-HOMEPAGE::USER
+   :ID 3600015173
+   :USERNAME "nydel"
+   :REALNAME "joshua ryan"
+   :EMAIL "nydel@sdf.org"
+   :PASSWORD-HASH "a94aa000f9a94cc51775bd5eac97c926")
+#S(CL-HOMEPAGE::USER
+   :ID 3615777521
+   :USERNAME "psara"
+   :REALNAME "generic admin account"
+   :EMAIL "psara@thegrapevine.cc"
+   :PASSWORD-HASH "c1d83eac19a6d5a092254c6a67ba064d")

@@ -1,0 +1,15 @@
+#S(CL-HOMEPAGE::ENTRY
+   :TIMESTAMP 3615803308
+   :USER "nydel"
+   :TITLE "another test of the system"
+   :CONTENT "okay so the system is certainly taking some kind of shape in lisp but i need to take a step back and simplify a lot of things. there are separate elements to this project and they should be written in isolation then linked by being part of a common system.")
+#S(CL-HOMEPAGE::ENTRY
+   :TIMESTAMP 3615802170
+   :USER "nydel"
+   :TITLE "version 2.0.1 alpha of nydel's common lisp homepage software begins development"
+   :CONTENT "while most of this implementation of the website is not functional, we will be working on it dilligently over the next months, as well as adding content & super cool tools for everyone to utilize. also, the common lisp source along with a linux-shell scripting solution for process daemonization will be developed and made available on one of our favorite version control systems, likely github. contact me about becoming involved in development of an add-on-supporting ever-expandable yet simple common lisp-based w3 homepage software written in common lisp as its own webserver meant to function behind apache, nginx etc.")
+#S(CL-HOMEPAGE::ENTRY
+   :TIMESTAMP 3615792729
+   :USER "nydel"
+   :TITLE "translating code from initial markup to common lisp"
+   :CONTENT "this is proving to be both kind of difficult and kind of awesome. i am excited to see how the whole project turns out. it has a much more expandable feel than the first cl-homepage did, and a much more organized nature than the psara project. so hopefully it is the best of both worlds!")
